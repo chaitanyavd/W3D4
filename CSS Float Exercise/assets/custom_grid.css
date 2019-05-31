@@ -1,0 +1,7 @@
+/* PUT FLUID GRID CODE HERE */
+.col > li {
+  float: left;
+  width: 90px;
+  height: 90px;
+  ...
+}
